@@ -2,7 +2,7 @@
 
 Falsifications of the Heliocentric Solar System and Sphereical Earth
 
-## We see too far if Earth is a ball
+## No  measurable or visiable Earth curvature exists. We see too far if Earth is a ball.
 
  A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
 
@@ -49,7 +49,7 @@ If Venus is between the Earth and Sun, why is it visible at night for about 260 
 The pressure of a gas is defined as the force the gas would exert upon a surface or container. 
 
 
-## Rockets in space are not real.
+## Rockets in space are not real, therefore space is not real. 
 
 The emptiest parts of space can have pressures as low as 10<sup>15</Sup> mTorr, which is about a billion times less than the pressure of the Earth's atmosphere. 
 
@@ -57,4 +57,4 @@ Between the Earth and Moon, NASA says the pressure of space is 10<sup>11</sup> m
 
 It is impossible for the thrust of a rocket or the fan of a jet engine to create propolsion even in much more modest vacuums.
 
-
+## The rotation of the Earth cannot be measured and has never been measured.
