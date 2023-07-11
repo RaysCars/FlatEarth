@@ -2,7 +2,7 @@
 
 Falsifications of the Heliocentric Solar System and Sphereical Earth
 
-## A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
+## We see too far for living on a ball. A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
 
   
 Miles | HiddenInches | HiddenFeet | HiddenInchesHeight | HiddenFeetHeight | HiddenMileHeight
@@ -29,3 +29,9 @@ $$ ( x = {-b \pm \sqrt{b^2-4ac} \over 2a} ) =   ax^2 + bx + c $$
   
   $$ z = z^2 + c $$
   
+## We should never see Venus or Mercury after sunset. But we do.  
+
+```mermaid
+flowchart lr 
+(
+
