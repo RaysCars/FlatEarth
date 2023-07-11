@@ -1,7 +1,8 @@
 #  Flat Earth
-## Falsifications of the Heliocentric Solar System and Sphereical Earth
 
-1. A sphereical earth requires there to be 
+Falsifications of the Heliocentric Solar System and Sphereical Earth
+
+## A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
 
   
 Miles | HiddenInches | HiddenFeet | HiddenInchesHeight | HiddenFeetHeight | HiddenMileHeight
