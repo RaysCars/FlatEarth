@@ -29,9 +29,15 @@ $$ ( x = {-b \pm \sqrt{b^2-4ac} \over 2a} ) =   ax^2 + bx + c $$
   
   $$ z = z^2 + c $$
   
-## We should never see Venus or Mercury after sunset. But we do.  
+## Venus or Mercury at night proves this solar system model is wrong:
 
 ```mermaid
-flowchart lr 
-(
+flowchart LR 
+s((Sun)) --sunslight --> m((Mercury)) --> v((Venus)) --> e((Earth)) -- night --> t((moon  )) 
+
+```
+
+If Venus is between the Earth and Sun, why is it visible at night for about 260 days per year? The night side of Earth looks away from the sun, therefore, Venus should not be visible.
+
+
 
