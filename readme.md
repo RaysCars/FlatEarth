@@ -2,7 +2,9 @@
 
 Falsifications of the Heliocentric Solar System and Sphereical Earth
 
-## We see too far for living on a ball. A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
+## We see too far if Earth is a ball
+
+ A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
 
   
 Miles | HiddenInches | HiddenFeet | HiddenInchesHeight | HiddenFeetHeight | HiddenMileHeight
@@ -18,17 +20,18 @@ Miles | HiddenInches | HiddenFeet | HiddenInchesHeight | HiddenFeetHeight | Hidd
 600 | (2,872,800) | -239,308 | -2,871,696 | (239,308.02) | (45.32) 
 1000 | (7,980,000) | -664,880 | -7,978,554 | (664,879.51) | (125.92)
 
-### the Formulas
+#### The Formulas
 $$ ( x = {-b \pm \sqrt{b^2-4ac} \over 2a} ) =   ax^2 + bx + c $$
-  
-  $$ D= \sqrt{(2r_\ *H)+H} $$
-  
-  $$ k_\ =r_\ - ( r_\  * ( \cos * (  E7 /(2 * r_\ )) ) )  $$
-  
-  $$  k_\ =  {8 [inch] * (mile^2) } $$
-  
-  $$ z = z^2 + c $$
-  
+
+$$ D= \sqrt{(2r_\ *H)+H} $$
+
+$$ k_\ =r_\ - ( r_\  * ( \cos * (  E7 /(2 * r_\ )) ) )  $$
+
+$$  k_\ =  {8 [inch] * (mile^2) } $$
+
+$$ z = z^2 + c $$
+
+---
 ## Venus or Mercury at night proves this solar system model is wrong:
 
 ```mermaid
@@ -39,5 +42,19 @@ s((Sun)) --sunslight --> m((Mercury)) --> v((Venus)) --> e((Earth)) -- night -->
 
 If Venus is between the Earth and Sun, why is it visible at night for about 260 days per year? The night side of Earth looks away from the sun, therefore, Venus should not be visible.
 
+---
+
+## The atmosphere of Earth does not get sucked into the vacuum of space. 
+
+The pressure of a gas is defined as the force the gas would exert upon a surface or container. 
+
+
+## Rockets in space are not real.
+
+The emptiest parts of space can have pressures as low as 10<sup>15</Sup> mTorr, which is about a billion times less than the pressure of the Earth's atmosphere. 
+
+Between the Earth and Moon, NASA says the pressure of space is 10<sup>11</sup> mTorr.
+
+It is impossible for the thrust of a rocket or the fan of a jet engine to create propolsion even in much more modest vacuums.
 
 
