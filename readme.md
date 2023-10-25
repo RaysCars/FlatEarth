@@ -2,7 +2,7 @@
 
 Falsifications of the Heliocentric Solar System and Sphereical Earth
 
-## No  measurable or visiable Earth curvature exists. We see too far if Earth is a ball.
+## No  measurable or visible Earth curvature exists. We see too far if Earth is a ball.
 
  A sphereical earth requires there curvature (at the horizon) to obfuscate furhter objects.  This following table illustrates hidden inches and feet up to 1000 miles:
 
